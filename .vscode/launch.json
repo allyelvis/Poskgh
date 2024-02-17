@@ -1,6 +1,53 @@
 {
   "configurations": [
     {
+      "type": "cobol",
+      "request": "attach",
+      "name": "COBOL (native): Attach to process",
+      "processId": "${command:pickProcess}"
+    },v
+    {
+      "type": "cobol",
+      "request": "attach",
+      "name": "COBOL (native): Attach to process",
+      "processId": "${command:pickProcess}"
+    },
+    {
+      "type": "aws-sam",
+      "request": "direct-invoke",
+      "name": "Invoke Lambda",
+      "invokeTarget": {
+        "target": "template",
+        "templatePath": "Template Location",
+        "logicalId": "Function Logical ID"
+      },
+      "lambda": {
+        "payload": {
+          "json": {}
+        }
+      }
+    },
+    {
+      "type": "aws-sam",
+      "request": "direct-invoke",
+      "name": "Invoke Lambda with API Gateway",
+      "invokeTarget": {
+        "target": "api",
+        "templatePath": "Template Location",
+        "logicalId": "Function Logical ID"
+      },
+      "api": {
+        "path": "Path",
+        "httpMethod": "Method",
+        "payload": {
+          "json": {}
+        }
+      }
+    },
+
+  
+
+    {
       "type": "aws-sam",
       "request": "direct-invoke",
       "name": "Invoke Lambda with API Gateway",
