@@ -56,5 +56,12 @@
   "C_Cpp_Runner.useLeakSanitizer": false,
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
-  "C_Cpp_Runner.msvcSecureNoWarnings": false
+  "C_Cpp_Runner.msvcSecureNoWarnings": false,
+  "files.exclude": {
+    "": true
+  },
+  "editor.wordWrap": "on",
+  "editor.defaultColorDecorators": true,
+  "editor.gotoLocation.alternativeImplementationCommand": "editor.action.referenceSearch.trigger",
+  "editor.gotoLocation.alternativeReferenceCommand": "editor.action.referenceSearch.trigger"
 }
