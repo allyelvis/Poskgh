@@ -13,7 +13,6 @@
         "wscats.eno",
         "ms-kubernetes-tools.vscode-kubernetes-tools",
         "matijarmk.dotnet-core-commands",
-        "hediet.vscode-drawio",
         "github.codespaces",
         "github.copilot",
         "googlecloudtools.cloudcode",
@@ -123,6 +122,20 @@
         "fullstackspider.visual-nuget",
         "andrewbutson.vscode-openai",
         "dotjoshjohnson.xml",
-        "local-smart.excel-live-server"
+        "local-smart.excel-live-server",
+        "amazonwebservices.aws-toolkit-vscode",
+        "adrianwilczynski.blazor-snippet-pack",
+        "ms-vscode.cpptools-themes",
+        "zaraclaj.dart-extensions-snippets",
+        "bitlang.cobol",
+        "asciidoctor.asciidoctor-vscode",
+        "blairleduc.net-core-starters-pack",
+        "doggy8088.netcore-extension-pack",
+        "capital-banking-solutions.form-designer-extension-pack",
+        "jorgeserrano.vscode-csharp-snippets",
+        "ms-vscode.vscode-github-issue-notebooks",
+        "vlchristos.carnation-vscode-theme",
+        "k--kato.docomment",
+        "codespaces-contrib.codeswing"
     ]
 }
