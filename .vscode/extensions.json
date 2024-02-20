@@ -136,6 +136,22 @@
         "ms-vscode.vscode-github-issue-notebooks",
         "vlchristos.carnation-vscode-theme",
         "k--kato.docomment",
-        "codespaces-contrib.codeswing"
+        "moozzyk.arduino",
+        "ronaldosena.arduino-snippets",
+        "kevinxing.arduinotheme",
+        "plethoraofhate.aws-actions",
+        "nguyenngoclong.asdf",
+        "yamlhunter.yamltemplatemaker",
+        "antstack.aws-js-code-snippet",
+        "webdevsnyc.aws-sam-snippets",
+        "loganarnett.lambda-snippets",
+        "aaron-bond.better-comments",
+        "danielthielking.aws-cloudformation-yaml",
+        "batisteo.vscode-django",
+        "bigonesystems.django",
+        "mengsicode.vscode-django-boilerplate",
+        "bibhasdn.django-snippets",
+        "sid200026.django-snippets",
+        "duetds.duet-vscode-components-extension"
     ]
 }
