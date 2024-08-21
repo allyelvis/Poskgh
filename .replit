@@ -1,0 +1,12 @@
+modules = ["python-3.12", "bash", "cpp-clang14", "nodejs-14"]
+run = "node.server.js"
+
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+run = ["sh", "-c", "node.server.js"]
+
+[[ports]]
+localPort = 5000
+externalPort = 80
