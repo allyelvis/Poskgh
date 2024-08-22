@@ -1,0 +1,8 @@
+/home/runner/Poskgh/PosEcommerceApp/obj/Debug/net7.0/PosEcommerceApp.csproj.AssemblyReference.cache
+/home/runner/Poskgh/PosEcommerceApp/obj/Debug/net7.0/PosEcommerceApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Poskgh/PosEcommerceApp/obj/Debug/net7.0/PosEcommerceApp.AssemblyInfoInputs.cache
+/home/runner/Poskgh/PosEcommerceApp/obj/Debug/net7.0/PosEcommerceApp.AssemblyInfo.cs
+/home/runner/Poskgh/PosEcommerceApp/obj/Debug/net7.0/PosEcommerceApp.csproj.CoreCompileInputs.cache
+/home/runner/Poskgh/PosEcommerceApp/obj/Debug/net7.0/PosEcommerceApp.MvcApplicationPartsAssemblyInfo.cache
+/home/runner/Poskgh/PosEcommerceApp/obj/Debug/net7.0/PosEcommerceApp.RazorAssemblyInfo.cache
+/home/runner/Poskgh/PosEcommerceApp/obj/Debug/net7.0/PosEcommerceApp.RazorAssemblyInfo.cs

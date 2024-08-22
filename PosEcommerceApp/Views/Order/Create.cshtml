@@ -1,0 +1,18 @@
+@model OrderViewModel
+
+<h2>Create Order</h2>
+<form asp-action="Create">
+    <div>
+        <label for="ProductId">Product</label>
+        <select asp-for="OrderItems[0].ProductId" asp-items="@(new SelectList(ViewBag.Products, "Id", "Name"))"></select>
+    </div>
+    <div>
+        <label for="Quantity">Quantity</label>
+        <input asp-for="OrderItems[0].Quantity" />
+    </div>
+    <div>
+        <label for="Price">Price</label>
+        <input asp-for="OrderItems[0].Price" />
+    </div>
+    <button type="submit">Submit</button>
+</form>
